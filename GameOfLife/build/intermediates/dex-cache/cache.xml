@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-1c5dad5a0b1f8ae102d8f4ec6e083496b0093b29.jar" />
+    </item>
+    <item
+        jar="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/pre-dexed/debug/classes-089a81764b2c753f8a9bfd190a776a28f173bbd5.jar" />
+    </item>
+    <item
+        jar="/Users/sarwarsiddique/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-f4a3378241add27599ec61d4454a174e5276da09.jar" />
+    </item>
+    <item
+        jar="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/sarwarsiddique/Desktop/GameOfLife/Studio/final/GameOfLife/app/build/intermediates/pre-dexed/debug/classes-b426cf08d412df4599a87a337d1af7093f86ce51.jar" />
+    </item>
+
+</items>

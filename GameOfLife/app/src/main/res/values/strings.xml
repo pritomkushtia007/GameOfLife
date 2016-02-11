@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game Of Life</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="start_stop">Play / Stop</string>
+
+    <string name="game_title">Game Of Life</string>
+    <string name="generation_id">Created Id: </string>
+    <string name="clear_table">Clear The Table</string>
+
+
+</resources>
